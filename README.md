@@ -5,7 +5,12 @@ An ongoing project aimed at developing a dating algorithm using **Unsupervised M
 ---
 
 ## 🚀 **Project Overview**
-This project aims to improve the dating experience by clustering user profiles and recommending similar profiles based on feature and text similarity. The algorithm uses **Unsupervised Machine Learning** techniques to optimize matchmaking by calculating correlations within clusters.
+This project aims to improve the dating experience by clustering user profiles and recommending similar profiles based on feature and text similarity. The algorithm uses **Unsupervised Machine Learning** techniques to optimize matchmaking by calculating correlations within clusters. 
+
+---
+
+## 🚨 **Disclaimer**
+The **CSV files** containing user profile data used in this project are **generated** for the purpose of algorithm development and testing. They do not represent real user data or any real-world dating profiles. The data has been created partly to avoid violating the privacy of real users.
 
 ---
 
