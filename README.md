@@ -40,3 +40,5 @@ The algorithm applies **Hierarchical Agglomerative Clustering** to group profile
 
 ## 🌟 **Acknowledgements**
 Special thanks to my seniors and colleagues for their ongoing support and collaboration in developing this dating algorithm!
+Also, thanks to Marco Santos for insightful Medium articles on dating algorithms using Machine Learning. The articles provided valuable resources for building the algorithm and understanding the key machine learning techniques involved.
+
