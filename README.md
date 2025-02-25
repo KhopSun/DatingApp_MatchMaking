@@ -19,7 +19,7 @@ This project aims to improve the dating experience by clustering user profiles a
 ## 📊 **Prior Data Analysis**
 Before developing this matchmaking algorithm, My team and I conducted extensive **data analysis** to understand user preferences, behavior, and potential features that contribute to successful matches. This analysis provided key insights that shaped the design of the current algorithm.
 
-You can check out my prior data analysis here: [**Link to Analysis**]()
+You can check out my prior data analysis here: [**Link to Analysis**](https://github.com/KhopSun/DatingApp_MatchMaking/blob/main/Survey_adjusted.pdf)
 
 ---
 
