@@ -10,7 +10,9 @@ This project aims to improve the dating experience by clustering user profiles a
 ---
 
 ## 🚨 **Disclaimer**
-The **CSV files** containing user profile data used in this project are **generated** for the purpose of algorithm development and testing. They do not represent real user data or any real-world dating profiles. The data has been created partly to avoid violating the privacy of real users.
+- The **CSV files** containing user profile data used in this project are **generated** for the purpose of algorithm development and testing. They do not represent real user data or any real-world dating profiles. The data has been created partly to avoid violating the privacy of real users.
+
+- This specific implementation of the algorithm **is not intended for direct use in any dating application**. Instead, it serves as a proof-of-concept to demonstrate the development and refinement of matchmaking techniques using **Unsupervised Machine Learning**.
 
 ---
 
