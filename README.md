@@ -19,8 +19,7 @@ This project aims to improve the dating experience by clustering user profiles a
 ## 📊 **Prior Data Analysis**
 Before developing this matchmaking algorithm, My team and I conducted extensive **data analysis** to understand user preferences, behavior, and potential features that contribute to successful matches. This analysis provided key insights that shaped the design of the current algorithm.
 
-You can check out my prior data analysis here: [**Link to Analysis**](https://enormous-block-1d8.notion.site/Survey-Analysis-133e36b9ede980d3bbe8ec7dc60d5baa)
-
+You can check out my prior data analysis here: [**Link to Analysis**]()
 
 ---
 
